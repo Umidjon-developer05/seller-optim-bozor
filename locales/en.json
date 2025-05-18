@@ -1,0 +1,37 @@
+{
+	"navLink1": "Home",
+	"navLink3": "Blogs",
+	"navLink4": "Contact",
+
+	"sellerTitle": "Claim your spot in the marketplace!",
+	"sellerSubtitle": "Showcase your products to thousands of customers and boost your income.",
+	"sellerRegisterBtn": "Register",
+	"sellerLoginBtn": "Login",
+
+	"whySellWithUsTitle": "Why sell with us?",
+	"whySellReason1": "Low commission and transparent system",
+	"whySellReason2": "Easy product upload and editing",
+	"whySellReason3": "Quick access to customers",
+	"whySellReason4": "Full analytics and monitoring tools",
+
+	"howItWorksTitle": "How does the platform work?",
+	"howStep1": "1. Sign up and create your profile",
+	"howStep2": "2. Add your products",
+	"howStep3": "3. Receive orders from customers",
+	"howStep4": "4. Get paid and deliver the products",
+
+	"successStoriesTitle": "Successful seller stories",
+	"successStoriesDescription": "Meet sellers who increased their earnings with our platform.",
+
+	"faqTitle": "Frequently Asked Questions",
+	"faq1Question": "How do I register?",
+	"faq1Answer": "Click the register button and fill out a simple form.",
+	"faq2Question": "How do I add a product?",
+	"faq2Answer": "After logging in, click the 'Add Product' button and upload your item.",
+	"faq3Question": "How do payments work?",
+	"faq3Answer": "Once the order is confirmed, the payment will be sent to you automatically.",
+
+	"finalCTA": "Start selling today!",
+	"finalCTAButton": "Get Started"
+	
+}

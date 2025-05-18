@@ -1,0 +1,36 @@
+{
+	"navLink1": "Bosh sahifa",
+	"navLink3": "Bloglar",
+	"navLink4": "Aloqa",
+
+	"sellerTitle": "Bozorda o‘z o‘rningizni egallang!",
+	"sellerSubtitle": "Mahsulotlaringizni minglab xaridorlarga taqdim eting va daromadingizni oshiring.",
+	"sellerRegisterBtn": "Ro'yxatdan o'tish",
+	"sellerLoginBtn": "Kirish",
+
+	"whySellWithUsTitle": "Nega aynan biz bilan sotishingiz kerak?",
+	"whySellReason1": "Kam komissiya va shaffof tizim",
+	"whySellReason2": "Oson mahsulot joylash va tahrirlash",
+	"whySellReason3": "Xaridorlarga yetib borishning tez yo‘li",
+	"whySellReason4": "To‘liq statistika va monitoring imkoniyatlari",
+
+	"howItWorksTitle": "Platforma qanday ishlaydi?",
+	"howStep1": "1. Ro'yxatdan o'ting va profil yarating",
+	"howStep2": "2. Mahsulotlaringizni qo‘shing",
+	"howStep3": "3. Xaridorlardan buyurtmalar oling",
+	"howStep4": "4. To‘lovni qabul qiling va mahsulot yetkazib bering",
+
+	"successStoriesTitle": "Muvaffaqiyatli sotuvchilar hikoyalari",
+	"successStoriesDescription": "Bizning platformamiz orqali daromadini oshirgan sotuvchilar bilan tanishing.",
+
+	"faqTitle": "Ko‘p so‘raladigan savollar",
+	"faq1Question": "Qanday ro‘yxatdan o‘tsam bo‘ladi?",
+	"faq1Answer": "Ro‘yxatdan o‘tish tugmasini bosib, oddiy shaklni to‘ldiring.",
+	"faq2Question": "Mahsulotni qanday qo‘shaman?",
+	"faq2Answer": "Profilga kirganingizdan so‘ng 'Mahsulot qo‘shish' tugmasi orqali yuklashingiz mumkin.",
+	"faq3Question": "To‘lov qanday ishlaydi?",
+	"faq3Answer": "Buyurtma tasdiqlangandan so‘ng sizga to‘lov avtomatik tarzda yuboriladi.",
+
+	"finalCTA": "Sotishni bugunoq boshlang!",
+	"finalCTAButton": "Endi boshlash"
+}
