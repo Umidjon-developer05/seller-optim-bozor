@@ -1,36 +1,30 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,nextjs,ts,figma,react,vercel,tailwind" />
+  </a>
+</p>
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![photo_2_2025-05-19_22-41-41](https://github.com/user-attachments/assets/dd9d3add-8a63-4fe8-832a-ce3d91bdc50a)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![photo_1_2025-05-19_22-41-41](https://github.com/user-attachments/assets/f292bf9a-6adc-4472-bbdd-665b821f271c)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![photo_4_2025-05-19_22-41-41](https://github.com/user-attachments/assets/2b450700-99c3-4f26-8c0b-72ef89cbc1f8)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![photo_3_2025-05-19_22-41-41](https://github.com/user-attachments/assets/f08f6c92-e057-4de5-b534-96080e8d4240)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Seller Optim Bozor — Sotuvchilar Uchun Maxsus Boshqaruv Paneli
+seller-optim-bozor — Optim Bozor platformasining sotuvchilar uchun mo‘ljallangan alohida interfeysidir. Ushbu tizim yordamida har bir sotuvchi o‘z mahsulotlarini qulay tarzda qo‘shishi, tahrirlashi va buyurtmalarni boshqarishi mumkin.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔹 Mahsulot qo‘shish va tahrirlash    
+🔹 Buyurtmalarni kuzatish           
+🔹 Statistika va savdo tahlili              
+🔹 Profil va ombor boshqaruvi                       
+🔹 Qulay va mobilga mos interfeys                  
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Agar siz bu panelni Next.js, React Native yoki boshqa texnologiyada yaratgan bo‘lsangiz, yoki u bilan bog‘liq maxsus funksiyalar (masalan, bildirishnomalar, foydalanuvchi sharhlari) mavjud bo‘lsa, ayting — shunga moslab ta’rifni kengaytirib beraman.
