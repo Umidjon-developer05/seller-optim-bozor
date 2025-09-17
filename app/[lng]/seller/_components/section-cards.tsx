@@ -18,9 +18,9 @@ type SectionCardsProps = {
 
 function formatCurrency(value: number) {
   try {
-    return new Intl.NumberFormat("en-US", {
+    return new Intl.NumberFormat("uz-UZ", {
       style: "currency",
-      currency: "USD",
+      currency: "UZ",
       maximumFractionDigits: 0,
     }).format(value);
   } catch (e) {

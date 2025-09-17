@@ -1,11 +1,12 @@
+"use client"; // agar client side interaktiv bo‘lsa
+
 import React from "react";
 import { SectionCards } from "../_components/section-cards";
-
 import { SiteHeader } from "../_components/site-header";
-
 import { SidebarInset } from "@/components/ui/sidebar";
 import ProductCard from "../_components/product.card";
 import { IProduct1 } from "@/types";
+
 type HomePageProps = {
   totalRevenue: number;
   totalCustomers: number;
@@ -14,7 +15,7 @@ type HomePageProps = {
   products?: IProduct1[];
 };
 
-function HomePage({
+export default function HomePage({
   totalRevenue,
   totalCustomers,
   totalOrders,
@@ -36,8 +37,7 @@ function HomePage({
               totalProducts={totalProducts}
             />
 
-            
-            {products && products.length > 0 && (
+            {products.length > 0 && (
               <div className="px-4 lg:px-6">
                 <h2 className="text-lg font-semibold mb-3">Products</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
@@ -53,5 +53,3 @@ function HomePage({
     </div>
   );
 }
-
-export default HomePage;
