@@ -7,13 +7,13 @@ import { SidebarInset } from "@/components/ui/sidebar";
 import ProductCard from "../_components/product.card";
 import { IProduct1 } from "@/types";
 
-type HomePageProps = {
+interface HomePageProps {
   totalRevenue: number;
   totalCustomers: number;
   totalOrders: number;
   totalProducts: number;
-  products?: IProduct1[];
-};
+  products: IProduct1[];
+}
 
 function HomePage({
   totalRevenue,
