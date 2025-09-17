@@ -36,6 +36,7 @@ function HomePage({
               totalProducts={totalProducts}
             />
 
+            
             {products && products.length > 0 && (
               <div className="px-4 lg:px-6">
                 <h2 className="text-lg font-semibold mb-3">Products</h2>
