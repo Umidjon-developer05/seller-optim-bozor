@@ -1,4 +1,4 @@
-"use client"; // agar client side interaktiv bo‘lsa
+"use client";
 
 import React from "react";
 import { SectionCards } from "../_components/section-cards";
@@ -15,7 +15,7 @@ type HomePageProps = {
   products?: IProduct1[];
 };
 
-export default function HomePage({
+function HomePage({
   totalRevenue,
   totalCustomers,
   totalOrders,
@@ -53,3 +53,4 @@ export default function HomePage({
     </div>
   );
 }
+export default HomePage;
